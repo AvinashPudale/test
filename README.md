@@ -2,7 +2,7 @@
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
-```graph TD
+```mermaid
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
